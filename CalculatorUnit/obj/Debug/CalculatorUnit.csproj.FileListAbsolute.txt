@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1212-4\Desktop\11A\17-ti Nomer\CalculatorUnit\bin\Debug\CalculatorUnit.exe.config
+C:\Users\STUDENTS-1212-4\Desktop\11A\17-ti Nomer\CalculatorUnit\bin\Debug\CalculatorUnit.exe
+C:\Users\STUDENTS-1212-4\Desktop\11A\17-ti Nomer\CalculatorUnit\bin\Debug\CalculatorUnit.pdb
+C:\Users\STUDENTS-1212-4\Desktop\11A\17-ti Nomer\CalculatorUnit\obj\Debug\CalculatorUnit.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-4\Desktop\11A\17-ti Nomer\CalculatorUnit\obj\Debug\CalculatorUnit.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-4\Desktop\11A\17-ti Nomer\CalculatorUnit\obj\Debug\CalculatorUnit.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-4\Desktop\11A\17-ti Nomer\CalculatorUnit\obj\Debug\CalculatorUnit.exe
+C:\Users\STUDENTS-1212-4\Desktop\11A\17-ti Nomer\CalculatorUnit\obj\Debug\CalculatorUnit.pdb
